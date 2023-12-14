@@ -1,0 +1,52 @@
+html, body {
+    height:100%;
+    width:99%;
+    display: block;
+    text-align: center;
+    background-color: rgb(142, 140, 140);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:x-large;
+}
+
+button{
+    background-color:rgb(161, 52, 52);
+    color: aliceblue !important;
+    border-radius: 6px;
+    font-size: small;
+    padding: 2px;
+    margin: 5 px;
+}
+a{
+    font-size: small;
+}
+iframe{
+    border-color: black;
+}
+section {
+    display: block;
+    height:100%;
+    width:100%;
+    box-sizing:border-box;
+}
+.float{
+    float: right;
+}
+h5{
+    font-weight: 2;
+}
+.object{
+    /* display: block; */
+
+    vertical-align:middle;
+}
+.tab{
+    height: 200;
+}
+  ol {
+    display: inline-block; /* Make the unordered list inline-block to center it */
+    text-align: left; /* Reset text alignment for list items */
+
+  }
+  div{
+    font-weight:300;
+  }
