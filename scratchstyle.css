@@ -45,8 +45,7 @@ h5{
   ol {
     display: inline-block; /* Make the unordered list inline-block to center it */
     text-align: left; /* Reset text alignment for list items */
-
   }
   div{
-    font-weight:300;
+    position: relative;
   }
